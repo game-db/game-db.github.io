@@ -1,3 +1,7 @@
+---
+title: Documentación de Game DB
+---
+
 # Introducción
 
 El proposito es crear una plataforma para la gestión de la colección de videojuegos (así como de sus elementos relacionados) y su ciclo de vida y actividad (videojuegos terminados, jugando, parados, etc.).
